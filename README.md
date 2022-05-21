@@ -1,8 +1,20 @@
-## Welcome to my page!👋
-
-Hi, I'm Juwon Cha from South Korea.  
-Currently Learning Game Programming, DirectX
+### Welcome to my profile!👋
 <br/>
+
+### About Me🧑‍💻
+
+🌏Hi, I'm Juwon Cha from South Korea
+
+🌱Currently Learning Game Programming, Direct2D
+
+### What I Like👍
+
+* 🎮Games
+* 🏋️‍♂️Weight training
+* 🥋Jiujitsu
+
+<br/>
+
 
 ### My Tech Stack📚
 
@@ -11,13 +23,6 @@ Currently Learning Game Programming, DirectX
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwonC&layout=compact)](https://github.com/juwonC/github-readme-stats)
-
-<br/>
-
-### What I Like  
-* 🎮Games
-* 🏋️‍♂️Working Out
-* 🥋Jiujitsu
 
 <br/>
 
