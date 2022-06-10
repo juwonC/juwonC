@@ -5,7 +5,7 @@
 
 🌏Hi, I'm Juwon Cha from South Korea
 
-🌱Currently Learning Game Programming, Direct2D
+🌱Currently Learning Game Programming, DirectX
 
 ### What I Like👍
 
