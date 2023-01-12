@@ -21,11 +21,9 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
 
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwonC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwonC&layout=compact)](https://github.com/juwonC/github-readme-stats)
 
-<br/>
 
 ### Contact Me📧
 
