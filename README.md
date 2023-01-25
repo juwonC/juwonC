@@ -22,7 +22,7 @@
 ![Unreal](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juwonC&layout=compact)](https://github.com/juwonC/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juwonC&layout=compact"/> </a>
 
 
 ### Contact Me📧
