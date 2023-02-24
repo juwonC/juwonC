@@ -7,12 +7,6 @@
 
 🌱Currently Learning Game Programming, Unreal Engine
 
-### What I Like👍
-
-* 🎮Games
-* 🏋️‍♂️Weight training
-* 🥋Jiujitsu
-
 <br/>
 
 
