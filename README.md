@@ -3,7 +3,7 @@
 
 ### About Me🧑‍💻
 
-🌏Hi, I'm Juwon Cha from South Korea
+🇰🇷Hi, I'm Juwon Cha from South Korea
 
 🌱Currently Learning Game Programming, Unreal Engine
 
